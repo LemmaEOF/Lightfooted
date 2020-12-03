@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "space.bbkr.lightfooted.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinEntity",
+    "MixinPowderSnowBlock"
+  ]
+}
