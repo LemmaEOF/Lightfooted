@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "lightfooted:block/frosted_ice_sheet_0"
+    },
+    "age=1": {
+      "model": "lightfooted:block/frosted_ice_sheet_1"
+    },
+    "age=2": {
+      "model": "lightfooted:block/frosted_ice_sheet_2"
+    },
+    "age=3": {
+      "model": "lightfooted:block/frosted_ice_sheet_3"
+    }
+  }
+}
